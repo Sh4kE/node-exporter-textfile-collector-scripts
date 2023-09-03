@@ -7,7 +7,6 @@
 #
 # Author: Sven Haardiek <sven@haardiek.de>
 
-set -o errexit
 set -o nounset
 set -o pipefail
 
